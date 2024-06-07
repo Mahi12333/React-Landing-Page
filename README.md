@@ -1,0 +1,2 @@
+1)  npm install lucide-react   
+<!-- !lucide-react ek React component library hai jo SVG icons provide karta hai. Ye icons UI development mein use kiye jaate hain, jaise ki buttons, links, navigation menus, aur anya UI elements ko decorate karne ke liye. -->
